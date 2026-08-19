@@ -1,8 +1,8 @@
 
 ## Licence 
 
-[![Repo](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FMahboob-A%2Fonline-judge
-)](https://github.com/Mahboob-A/online-judge)
+[![Repo](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fsaksham302005%2Fonline-judge
+)](https://github.com/saksham302005/online-judge)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -21,10 +21,10 @@ Online Judge can execute C++, Python and Java code in secure container, compare 
 
 ## General Information
 
-Online Judge is an experiment to implement the Judge with [AlgoCode](https://github.com/Mahboob-A/algocode-backend) Platform a DSA platfrom just like Leetcode. 
+Online Judge is an experiment to implement the Judge with [AlgoCode](https://github.com/saksham302005/algocode-backend) Platform a DSA platfrom just like Leetcode. 
 
 AlgoCode is a coding platfrom built in microservices architechture. To learn more about AlgoCode, please explore this repository: 
-[AlgoCode Backend](https://github.com/Mahboob-A/algocode-backend)
+[AlgoCode Backend](https://github.com/saksham302005/algocode-backend)
 
 Online Judge can execute user codes and run test cases against the code output. 
 
@@ -48,7 +48,7 @@ The Judge can handle the below events:
 #### Clone the project
 
 ```bash
-  https://github.com/Mahboob-A/online-judge.git
+  https://github.com/saksham302005/online-judge.git
 ```
 
 #### Go to the project directory
@@ -159,7 +159,7 @@ For Windows
 | `testcase` | `list[string]` | Testcase that should be compared to check th e answer of the code execution. |   
 
 
-All the code are pushed to the project as PR. Hence, you can view the work has been done in the closed PR of the project. Detailed explanation has been added to understand the PR. To learn more on API, please take a look at this PR: [Judge API](https://github.com/Mahboob-A/online-judge/pull/6)
+All the code are pushed to the project as PR. Hence, you can view the work has been done in the closed PR of the project. Detailed explanation has been added to understand the PR. To learn more on API, please take a look at this PR: [Judge API](https://github.com/saksham302005/online-judge/pull/6)
 
 
 ## Judge Without API Call
@@ -169,9 +169,9 @@ you can also do that.
 
 Follow the below steps - 
 
-A. Clone This repository: [Judge without API Call](https://github.com/Mahboob-A/online-judge/tree/check-dnd-local)
+A. Clone This repository: [Judge without API Call](https://github.com/saksham302005/online-judge/tree/check-dnd-local)
 
-B. A step by step guideline has been outlined in the below mentioned PR, please follow along the PR to run the Judge without calling the API: [See the PR.](https://github.com/Mahboob-A/online-judge/pull/9) It's really well documented, I promise!
+B. A step by step guideline has been outlined in the below mentioned PR, please follow along the PR to run the Judge without calling the API: [See the PR.](https://github.com/saksham302005/online-judge/pull/9) It's really well documented, I promise!
 
 
 
@@ -203,7 +203,7 @@ This is a Revamped Implementation of Online Judge for AlgoCode - A DSA problem s
 
 This Judge simplifies to the code execution. If you just want a monolithic application to test how an secure code execution should happend with test cases comparison to generate a DSA platform like answer, this is a handy tool. 
 
-This Judge is implemented in the [Remote Code Execution Engine](https://github.com/Mahboob-A/rcee) Service of the [AlgoCode](https://github.com/Mahboob-A/algocode-backend) Platform. 
+This Judge is implemented in the [Remote Code Execution Engine](https://github.com/saksham302005/rcee) Service of the [AlgoCode](https://github.com/saksham302005/algocode-backend) Platform. 
 
 
 #### How secure is the execution 
@@ -245,19 +245,19 @@ Yes, I will implement this in my next release. In the future release, the Online
 ## Screenshots
 
 #### API requst in postman
-![image](https://github.com/Mahboob-A/online-judge/assets/109282492/dc23de2c-4ffb-4302-a307-dbb2e06b4d5a)
+![image](https://github.com/saksham302005/online-judge/assets/109282492/dc23de2c-4ffb-4302-a307-dbb2e06b4d5a)
 
 
 
 ##### Wrong Answer Response 
-![Screenshot from 2024-05-22 12-27-58](https://github.com/Mahboob-A/online-judge/assets/109282492/a9a242b5-d22a-406e-9016-0ee351dc00a8)
+![Screenshot from 2024-05-22 12-27-58](https://github.com/saksham302005/online-judge/assets/109282492/a9a242b5-d22a-406e-9016-0ee351dc00a8)
 
 ##### Logging Level 
-![Screenshot from 2024-05-22 12-28-42](https://github.com/Mahboob-A/online-judge/assets/109282492/9e6dd81a-f999-4ce8-86c7-a29cda510bc2)
+![Screenshot from 2024-05-22 12-28-42](https://github.com/saksham302005/online-judge/assets/109282492/9e6dd81a-f999-4ce8-86c7-a29cda510bc2)
 
-##### The architechture of [AlgoCode](https://github.com/Mahboob-A/algocode-backend) Platform.  
-![Screenshot from 2024-05-21 13-22-07](https://github.com/Mahboob-A/online-judge/assets/109282492/96c4cda4-388f-417b-8f35-1bc75c0ed015)
+##### The architechture of [AlgoCode](https://github.com/saksham302005/algocode-backend) Platform.  
+![Screenshot from 2024-05-21 13-22-07](https://github.com/saksham302005/online-judge/assets/109282492/96c4cda4-388f-417b-8f35-1bc75c0ed015)
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-mahboob-alam/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-saksham302005lam/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iMahboob_A)
